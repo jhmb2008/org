@@ -6,12 +6,12 @@
     DEADLINE: <2018-10-23 Tue 18:00> SCHEDULED: <2018-10-23 Tue 08:00>
 *** TODO day3
     SCHEDULED: <2018-10-23 Tue 10:00>
-*** day
-    SCHEDULED: <2018-10-23 Tue 19:00>
-*** day3
 *** day4
+    SCHEDULED: <2018-10-23 Tue 19:00>
 *** day5
 *** day6
+*** day7
+*** day8
 ** devonthink
 ** daylite
 *** keyword设置
