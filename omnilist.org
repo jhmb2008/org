@@ -1,0 +1,51 @@
+* improvement*
+** org-mode
+** 21day EMAC
+*** DONE day1
+*** DONE day2
+    DEADLINE: <2018-10-23 Tue 18:00> SCHEDULED: <2018-10-23 Tue 08:00>
+*** TODO day3
+    SCHEDULED: <2018-10-23 Tue 10:00>
+*** day
+    SCHEDULED: <2018-10-23 Tue 19:00>
+*** day3
+*** day4
+*** day5
+*** day6
+** devonthink
+** daylite
+*** keyword设置
+** aboboo
+** omnifocus
+** wechat
+*** 群运营
+**** 机器人
+**** 群规则
+*** 机器人
+*** 设置助理
+* pharmacy
+** 迁址
+* 膏方
+** 药材
+** 软件
+** 场地
+** 人工
+** 处方、包装
+** 总结
+* 医学提升
+** 温州录音
+** 金匮
+** 伤寒论
+** 舌诊提升
+*** 舌诊概况、参考资料、方法、注意点
+** 脉诊提升
+*** 了解脉诊概况
+* 健康
+** 体检
+** 锻炼
+* 财富
+** 股票
+* 留学加拿大
+** 英语
+** 申请学校
+** 培养 独立能力

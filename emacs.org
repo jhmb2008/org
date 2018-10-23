@@ -1,0 +1,23 @@
+
+* 21天
+** dya1
+*** 基础操作
+**** 常见符号所代表的意义如下
+
+1.M(eta)，在 Mac 下为 Option 键
+2.s(uper)，在 Mac 环境下为左 Command 键
+3.S(Shift)
+4.C(trl)
+
+** day2
+** day3
+*** TODO git 管理版本
+*** DONE popwin
+ 查询命令，C-H-V,直接可以查光标位置命令
+*** autoload load file load path 
+*** 命名规则
+*** abbrev
+*** major mode minor mode
+*** 
+** day4
+
